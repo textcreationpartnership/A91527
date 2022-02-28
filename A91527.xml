@@ -1,0 +1,366 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Bishop of Ely's letter to his clergy</title>
+            <author>Patrick, Simon, 1626-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91527</idno>
+            <idno type="STC">Wing P821A</idno>
+            <idno type="STC">ESTC R42660</idno>
+            <idno type="EEBO-CITATION">38875545</idno>
+            <idno type="OCLC">ocm 38875545</idno>
+            <idno type="VID">152331</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91527)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152331)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2293:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Bishop of Ely's letter to his clergy</title>
+                  <author>Patrick, Simon, 1626-1707.</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>[Pri]nted by John Hayes, Printer to [t]he University,</publisher>
+                  <pubPlace>Cambridge :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, creased, overwritten, and defaced, with loss of print.</note>
+                  <note>Reproduction of original in: Lambeth Palace Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy --  Appointment, call, and election.</term>
+               <term>Clergy --  Appointment, call, and election.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152331:1" rendition="simple:additions"/>
+            <p>THE Biſhop of <hi>ELY</hi>'s LETTER TO HIS CLERGY.</p>
+            <figure>
+               <q>HINC LUCEM ET POCULA SACRA</q>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>CAMBRIDGE,</hi> 
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ted by <hi>John Hayes,</hi> Printer to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Univerſity. 1692.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:152331:2"/>
+            <pb n="1" facs="tcp:152331:2" rendition="simple:additions"/>
+            <opener>
+               <salute>Dear Brethren,</salute>
+            </opener>
+            <p>I Am ſo fully convinced, by long experience, how powerfull a <hi>fre<g ref="char:EOLhyphen"/>quent Reflection upon the Vows you made at your Ordination,</hi> would be, to awaken and excite you to a diligent and zealous performance of every part of your Miniſterial duty; that as I made it my earneſt Requeſt to you at my Vi<g ref="char:EOLhyphen"/>ſitation, ſo now I renew it, and again be<g ref="char:EOLhyphen"/>ſeech you, as you love your own Souls, and the Souls of thoſe committed unto your care, to read over and weigh ſeriouſly, every <hi>Lords day</hi> at leaſt, the <hi>Solemn Queſtions</hi> to which the Biſhop, in the Name of God and of his Church, de<g ref="char:EOLhyphen"/>manded your <hi>Anſwers,</hi> before he laid his Hands on you And if you would likewiſe ponder, that moſt <hi>weighty Ex<g ref="char:EOLhyphen"/>hortation,</hi> wherewith the Biſhop prepa<g ref="char:EOLhyphen"/>red you to attend unto thoſe <hi>Demands,</hi> when you were made <hi>Prieſts,</hi> it would make the conſideration of them, more effectuall.</p>
+            <p>
+               <pb n="2" facs="tcp:152331:3" rendition="simple:additions"/>
+Now becauſe I fear they may not be diſtinctly remembred, and every One of you may not be well able to purchaſe one of thoſe <hi>Common Prayer Books,</hi> wherein they are Printed (which com<g ref="char:EOLhyphen"/>monly are only thoſe of the Largeſt Volumes) I have Tranſcribed them, and herein ſent them to you: that you may have them continually before your Eyes.</p>
+            <p>And firſt I will lay before you, what you promiſed when you were admitted <hi>Deacons.</hi>
+            </p>
+            <p>Then the Biſhop is required <hi>to examine every One of them that are to be Ordered, in the preſence of the People, after this manner following.</hi>
+            </p>
+            <sp>
+               <p>
+                  <hi>Do you truſt that you are inwardly moved by the holy Ghoſt, to take upon you this Office and Miniſtration, to ſerve God for the promoting of his Glory, and the edifying of his People?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Anſwer</speaker>
+               <p>
+                  <hi>I truſt ſo.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>The Biſhop.</speaker>
+               <p>
+                  <hi>Do you think that you are truly called according to the will of our Lord Ieſus Chriſt, and the due
+<pb n="3" facs="tcp:152331:3" rendition="simple:additions"/>Order of this Realm, to the Miniſtry of the Church?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Anſwer.</speaker>
+               <p>
+                  <hi>I think ſo.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>The Biſhop.</speaker>
+               <p>
+                  <hi>Do you unfeignedly believe all the Canonical Scri<g ref="char:EOLhyphen"/>ptures of the Old and New Teſtament?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Anſwer.</speaker>
+               <p>
+                  <hi>I do believe them.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>The Biſhop.</speaker>
+               <p>
+                  <hi>Will you diligently Read the Same unto the People aſſembled in the Church, where you ſhall be appointed to ſerve?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Anſwer.</speaker>
+               <p>
+                  <hi>I will.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>The Biſhop.</speaker>
+               <p>
+                  <hi>It appertaineth to the Office of a Deacon in the Church where he ſhall be appointed to ſerve, to aſsiſt the Prieſt in Divine Service, and ſpecially when he miniſtreth the Holy Communion, and to help him in the diſtribution thereof, and to Read Holy Scriptures and Homilies in the Church, and to inſtruct the Youth in the Catechiſm; in the abſence of the Prieſt to Baptize Infants, and to Preach, if he be admitted thereto by the Biſhop. And furthermore, it is his Office, where proviſion is ſo made, to ſearch for the Sick, Poor and Impotent People of the Pariſh, to intimate their Eſtates, Names and Places where they dwell, unto the Cu<g ref="char:EOLhyphen"/>rate,
+<pb n="4" facs="tcp:152331:4" rendition="simple:additions"/>that by his exhortation, they may be relieved with the Alms of the Pariſhioners or others. Will you do this gladly and willingly?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Anſwer.</speaker>
+               <p>
+                  <hi>I will ſo do by the help of God.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>The Biſhop.</speaker>
+               <p>
+                  <hi>Will you apply all your Diligence<g ref="char:punc">▪</g> to frame and faſhion your own Lives, and the Lives of your Families, according to the Doctrine of Chriſt; and to make both your ſelves and them, as much as in you lyeth, wholſom examples of the Flock of Chriſt?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Anſwer</speaker>
+               <p>
+                  <hi>I will ſo do, the Lord being my helper.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>The Biſhop.</speaker>
+               <p>
+                  <hi>Will you Reverently obey your Ordinary, and other chief. Miniſters of the Church, and them to whom the Charge and Government over you is committed, following with a glad mind and will their Godly admonitions?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Anſwer<g ref="char:punc">▪</g>
+               </speaker>
+               <p>
+                  <hi>I will endeavour my ſelf, the Lord being my helper.</hi>
+               </p>
+            </sp>
+            <p>Nothing can be more ſolemn than this <hi>Examination,</hi> and the Engagements into which you entred, by the Anſwers you publickly made to theſe Queſtions:
+<pb n="5" facs="tcp:152331:4" rendition="simple:additions"/>unleſs it be the obligations you further took upon you, when you were admit<g ref="char:EOLhyphen"/>ted to the Order of <hi>Prieſthood.</hi>
+            </p>
+            <p>At which time the Biſhop ſpake to you, as here followeth: which cannot be read too often over.</p>
+            <div type="part">
+               <head>The Ordering of Prieſts.</head>
+               <sp>
+                  <p>YOV have heard, Brethren, as well in your private examination, as in the exhortation which was now made to you <hi>(in the Ser<g ref="char:EOLhyphen"/>mon preceding)</hi> and in the Holy Leſſons taken out of the Goſpell and the writings of the Apoſtles, of what dignity, and of how great importance this Office is, whereunto you are called. And now again we exhort you in the Name of our Lord Ieſus Chriſt, that you have in remembrance into how high a dignity, and to how weighty an Office and Charge ye are called: That is to ſay, to be Meſſengers, Watchmen, and Stewards of the Lord; to teach and to premoniſh, to feed and provide for the Lords Family; to ſeek for Chriſts Sheep that are diſ<g ref="char:EOLhyphen"/>perſed abroad, and for his Children who are in the midſt of this naughty World, that they may be ſaved through Chriſt for ever.</p>
+                  <p>Have alwayes therefore printed in your remem<g ref="char:EOLhyphen"/>brance how great a Treaſure is committed to your charge. For they are the Sheep of Chriſt which he bought with his Death, and for whom he ſhed his Blood. The Church and Congregation whom you muſt ſerve, is his Spouſe, and his Body<g ref="char:punc">▪</g>
+                     <pb n="6" facs="tcp:152331:5"/>And if it ſhall happen the ſame Church, or any member thereof to take any hurt or hindrance by reaſon of your negligence, ye know the greatneſs of the fault, and alſo the horrible puniſhment that will enſue. Wherefore conſider with your ſelves the end of your Miniſtration towards the Children of God, towards the Spouſe and Body of Chriſt; and ſee that you never ceaſe your Labour and Diligence, untill you have done all that lyeth in you, accor<g ref="char:EOLhyphen"/>ding to your bounden duty, to bring all ſuch as are or ſhall be committed to your Charge, unto that agreement in the faith and knowledge of God, and to that ripeneſs and perfectneſs of age in Chriſt, that there be no place oft among you <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>either for er<g ref="char:EOLhyphen"/>ror in Religion, or for vitiouſneſs in Life.</p>
+                  <p>Foraſmuch then as your Office is both of ſo great excellency, and of ſo great difficulty, ye ſee with how great care and ſtudy ye ought to apply your ſelves, as well that you may ſhew your ſelves dutifull and thankfull unto that Lord who hath placed you in ſo high a dignity; and alſo to be<g ref="char:EOLhyphen"/>ware that neither you your ſelves offend, nor be oc<g ref="char:EOLhyphen"/>caſion that others offend.</p>
+                  <p>Howbeit, ye cannot have a mind and will thereto of your ſelves; for that will and ability is given of God alone; therefore ye ought, and have need to pray earneſtly for his holy Spirit. And ſeeing that you cannot by any other means com<g ref="char:EOLhyphen"/>paſs the doing of ſo Weighty a work, pertaining to the ſalvation of Man, but with doctrine and exhor<g ref="char:EOLhyphen"/>tation taken out of the Holy Scriptures, and with a life agreeable to the ſame; conſider how ſtudious you ought to be in reading and learning the Scriptures, and in framing the manners both of your ſelves, and of them that ſpecially pertain un<g ref="char:EOLhyphen"/>to you, according to the rule of the ſame Scrip<g ref="char:EOLhyphen"/>tures: And for this ſelf ſame cauſe, how you ought
+<pb n="7" facs="tcp:152331:5" rendition="simple:additions"/>to forſake and ſet aſide (as much as you may) all worldly cares and ſtudies.</p>
+                  <p>We have good hope that you have well weighed and pondered theſe things with your ſelves long before this time, and that you have clearly deter<g ref="char:EOLhyphen"/>mined, by Gods grace, to give your ſelves wholly to this Office, whereunto it hath pleaſed God to call you: So that, as much as lieth in you, you will apply your ſelves wholly to this one thing, and draw all your cares and ſtudies this way; and that you will continually pray to God the Father, by the mediation of our only Saviour Ieſus Chriſt, for the Heavenly aſsiſtance of the holy Ghoſt; that by daily reading and weighing of the Scrip<g ref="char:EOLhyphen"/>tures, ye may wax riper and ſtronger in your Mi<g ref="char:EOLhyphen"/>niſtry, and that ye may ſo endeavour your ſelves from time to time, to ſanctify the Lives of you and yours, and to faſhion them after the Rule and Doctrine of Chriſt, that ye may be wholſom and godly examples and patterns for the People to follow.</p>
+                  <p>And now, that this preſent Congregation of Chriſt here aſſembled, may alſo underſtand your minds and wills in theſe things, and that this your promiſe may the more move you to do your duties, ye ſhall anſwer plainly to theſe things, which we in the Name of God, and of his Church, ſhall demand of you touching the ſame.</p>
+                  <p>Do you think in your heart that you be truly called, according to the Will of our Lord Ieſus Chriſt, and the Order of this Church of England, to the Order and Miniſtry of Prieſthood?</p>
+               </sp>
+               <sp>
+                  <speaker>Anſwer.</speaker>
+                  <p>I think it.</p>
+               </sp>
+               <sp>
+                  <pb n="8" facs="tcp:152331:6" rendition="simple:additions"/>
+                  <speaker>The Biſhop.</speaker>
+                  <p>Are you perſwaded that the Holy Scriptures contain ſufficiently all doctrines required of neceſ<g ref="char:EOLhyphen"/>ſity to Eternal Salvation, through faith in Ieſus Chriſt? and are you determined out of the ſaid Scriptures to inſtruct the People committed to your charge, and to teach nothing (as required of neceſsity to Eternal Salvation) but that which you ſhall be perſwaded may be concluded and proved by the Scripture?</p>
+               </sp>
+               <sp>
+                  <speaker>Anſwer.</speaker>
+                  <p>I am ſo perſwaded, and have ſo determined by Gods grace.</p>
+               </sp>
+               <sp>
+                  <speaker>The Biſhop.</speaker>
+                  <p>Will you then give your faithfull diligence alwayes ſo to miniſter the Doctrine and Sacraments, and the Diſcipline of Chriſt, as the Lord hath com<g ref="char:EOLhyphen"/>manded, and as this Church and Realm hath re<g ref="char:EOLhyphen"/>ceived the ſame, according to the Commandments of God; ſo that you may teach the People commit<g ref="char:EOLhyphen"/>ted to your cure and charge, with all diligence to keep and obſerve the ſame?</p>
+               </sp>
+               <sp>
+                  <speaker>Anſwer</speaker>
+                  <p>I will ſo do, by the help of the Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>The Biſhop.</speaker>
+                  <p>Will you be ready with all faithfull diligence to baniſh and drive away all erroneous and ſtrange Doctrines, contrary to Gods Word; and to uſe both publick and private monitions and exhorta<g ref="char:EOLhyphen"/>tions, as well to the ſick as to the whole within your
+<pb n="9" facs="tcp:152331:6" rendition="simple:additions"/>Cures, as need ſhall require, and occaſion ſhall be given?</p>
+               </sp>
+               <sp>
+                  <speaker>Anſwer</speaker>
+                  <p>I will, the Lord being my helper.</p>
+               </sp>
+               <sp>
+                  <speaker>The Biſhop.</speaker>
+                  <p>Will you be diligent in Prayers, and in reading of the holy Scriptures, and in ſuch ſtudies as help to the knowledg of the ſame; laying aſide the ſtudy of the world and the fleſh?</p>
+               </sp>
+               <sp>
+                  <speaker>Anſwer</speaker>
+                  <p>I will endeavour my ſelf ſo to do, the Lord being my helper.</p>
+               </sp>
+               <sp>
+                  <speaker>The Biſhop.</speaker>
+                  <p>Will you be diligent to frame and faſhion your own ſelves and your families, according to the Do<g ref="char:EOLhyphen"/>ctrine of Chriſt, and to make both your ſelves and them, as much as in you lyeth, wholſom examples and patterns to the Flock of Chriſt?</p>
+               </sp>
+               <sp>
+                  <speaker>Anſwer</speaker>
+                  <p>I will apply my ſelf thereto, the Lord being my helper.</p>
+               </sp>
+               <sp>
+                  <speaker>The Biſhop.</speaker>
+                  <p>Will you maintain and ſet forward, as much as lieth in you, quietneſs, peace, and love among all Chriſtian People, and eſpecially among them that are or ſhall be committed to your Charge?</p>
+               </sp>
+               <sp>
+                  <speaker>Anſwer</speaker>
+                  <p>I will ſo do, the Lord being my helper.</p>
+               </sp>
+               <sp>
+                  <pb n="10" facs="tcp:152331:7" rendition="simple:additions"/>
+                  <speaker>The Biſhop</speaker>
+                  <p>
+                     <hi>Will you reverently obey your Ordinary, and other chief Miniſters, unto whom is committed the charge and Government over you; following with a glad mind and will their godly admonitions, and ſub<g ref="char:EOLhyphen"/>mitting your ſelves to their godly judgements?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Anſwer</speaker>
+                  <p>
+                     <hi>I will ſo do, the Lord being my helper.</hi>
+                  </p>
+               </sp>
+               <p>Theſe are the ſacred Bonds, in which you tyed your ſelves to Chriſt, when you entred into his Service, and were made his Miniſters: That is, had the higheſt Honour conferred on you, but withall the greateſt Truſt; which if it be not duly diſcharged, will bring you un<g ref="char:EOLhyphen"/>der the heavieſt guilt. You have need therefore to quicken your ſelves, to be faithfull in your Office, by reflecting ve<g ref="char:EOLhyphen"/>ry often on theſe holy Reſolutions, or Vows rather, which you made when you undertook it: And pray to God alſo conſtantly to be your He<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er; as the Biſhop did after thoſe Demands in theſe words,</p>
+               <sp>
+                  <p>
+                     <hi>Almighty God, who hath given you this will to do all theſe things, Grant alſo unto you Strength and Power to perform the ſame that he may ac<g ref="char:EOLhyphen"/>compliſh his work which he hath begun in you, through Ieſus Chriſt our Lord,</hi> Amen.</p>
+               </sp>
+               <p>
+                  <pb n="11" facs="tcp:152331:7" rendition="simple:additions"/>
+It would conduce very much to the <hi>accompliſhing of his work in you,</hi> if you would reflect often and ſeriouſly, upon the very firſt ſtep you made towards it; when you declared (at your admiſſion to the Order of <hi>Deacons</hi>) that <hi>you truſted you were inwardly moved by the holy Ghoſt, to take upon you this Office and Miniſtra<g ref="char:EOLhyphen"/>tion: i. e.</hi> Not by mere Worldly ends and conſiderations, that you might get a livelyhood; but by Spirituall and Hea<g ref="char:EOLhyphen"/>venly motives, out of a deſire (as it follows there in that firſt Queſtion) <hi>to ſerve God, for the promoting of his Glo<g ref="char:EOLhyphen"/>ry, and the edifying of his People.</hi>
+               </p>
+               <p>This Queſtion, you may obſerve, was not renewed afterward, when you came to be admitted to the Order of <hi>Priest<g ref="char:EOLhyphen"/>hood,</hi> becauſe it was ſuppoſed that the ſame Motions continued in you, which you felt at firſt; or rather that they were grown ſtronger, preſſing you for<g ref="char:EOLhyphen"/>ward to deſire to be made compleat Mi<g ref="char:EOLhyphen"/>niſters of Jeſus Chriſt, for the advance<g ref="char:EOLhyphen"/>ment of his Kingdom in the World. Now if what you affirmed at your en<g ref="char:EOLhyphen"/>trance into his Service was true, that
+<pb n="12" facs="tcp:152331:8" rendition="simple:additions"/>you were <hi>inwardly moved to it by th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> holy Ghoſt</hi> (out of Love to our Lord Jeſus Chriſt, and to thoſe Souls which coſt him no leſs than his pretious Blood) no Queſtion that bleſſed Spirit of Grace, which began a good work in you, hath never ceaſed ſince that time (unleſs you have <hi>quenched the Spirit,</hi> which God forbid) to move you to mind your duty, and purſue the end of your Mini<g ref="char:EOLhyphen"/>ſtration: That is to have this conſtantly in your thoughts, to apply your ſelves wholly to this one thing, how you may win Souls to the Knowledge, and Love, and Obedience of our Saviour.</p>
+               <p>For this is your Office (which you undertook by the <hi>motion of the holy Ghost</hi>) and therefore this ought to be your conſtant deſign, your buſineſs, your ſtudy and daily care; how you may bring thoſe Souls that are committed to your charge, unto their Bleſſed Redeemer in Heaven: by inſtructing both Young and Old in the Truth, as <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t is in Chriſt; by preſſing it upon their hearts, both in Catechizing and Preaching; by per<g ref="char:EOLhyphen"/>ſwading them to the practice of eve<g ref="char:EOLhyphen"/>ry
+<pb n="13" facs="tcp:152331:8" rendition="simple:additions"/>part of their Chriſtian duty; by ſtirring them up when they are negli<g ref="char:EOLhyphen"/>gent; taking all opportunities, not on<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y in Publick, but (according to your <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>romiſe) in Private alſo, to admoniſh <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd exhort them, both in Health and <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Sickneſs: that they may ſenſibly <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erceive the great worth of their Immor<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l Souls, even by your unwearied Di<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gence, Labour, Pains and Care, to ſave <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>em. <hi>Amen.</hi>
+               </p>
+            </div>
+            <closer>
+               <dateline>
+                  <date>July 6. 1692.</date>
+               </dateline>
+               <signed>
+                  <hi>Sy.</hi> Elienſ.</signed>
+            </closer>
+            <pb facs="tcp:152331:9" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
